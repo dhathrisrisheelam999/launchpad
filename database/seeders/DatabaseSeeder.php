@@ -1,4 +1,4 @@
-<?php
+git push -u origin main<?php
 
 namespace Database\Seeders;
 
